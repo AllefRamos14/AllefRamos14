@@ -37,6 +37,7 @@
 
 <p align="center">
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllefRamos14&show_icons=true&theme=tokyonight)
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AllefRamos14&show_icons=true&theme=radical)
   <br>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllefRamos14&layout=compact&theme=tokyonight)
 </p>
