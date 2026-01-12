@@ -33,11 +33,13 @@
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllefRamos14&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllefRamos14&layout=compact&theme=tokyonight" height="160" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllefRamos14&show_icons=true&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllefRamos14&layout=compact&theme=tokyonight)
 </p>
+
 
 ---
 
