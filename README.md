@@ -70,9 +70,9 @@
 
 
 ## 📌 **Projetos em Destaque**
-- [**DevBills - Front-End**](https://github.com/AllefRamos14/DevBills-Front-End) – Controle de Finanças Pessoais.
-- [**DevMovies**](https://github.com/AllefRamos14/DevMovies) – DevMovies é uma aplicação web inspirada em plataformas de streaming.  
-- [**Tela de Login**](https://github.com/AllefRamos14/calculadora) – Projeto de uma interface moderna e responsiva de Login e Cadastro.
+- [**DevBills 📊**](https://github.com/AllefRamos14/DevBills-Front-End) – Controle de Finanças Pessoais.
+- [**DevMovies 🎬**](https://github.com/AllefRamos14/DevMovies) – DevMovies é uma aplicação web inspirada em plataformas de streaming.  
+- [**Tela de Login 🔐**](https://github.com/AllefRamos14/calculadora) – Projeto de uma interface moderna e responsiva de Login e Cadastro.
 
 ---
 
