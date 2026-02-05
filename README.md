@@ -66,15 +66,9 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllefRamos14&show_icons=true&theme=tokyonight)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllefRamos14&layout=compact&theme=tokyonight)
-
-</p>
+![GitHub last commit](https://img.shields.io/github/last-commit/AllefRamos14/DevBurger-Interface)
+![GitHub repo size](https://img.shields.io/github/repo-size/AllefRamos14/DevBurger-Interface)
 
 
 ---
