@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Alef Ramos! 👋</h1>
 
 <p align="center">
-  Desenvolvedor Front-End Júnior | Apaixonado por criar interfaces modernas e aprender novas tecnologias.
+  Desenvolvedor Full Stack Júnior | Cursando Engenharia de Software 🚀
 </p>
 
 <p align="center">
@@ -11,10 +11,19 @@
 ---
 
 ## 🚀 **Sobre mim**
-- 👨‍💻 Desenvolvedor **Front-End** em aprendizado constante.  
-- 🌱 Atualmente estudando **React.js** e **Node.js**.  
-- 💡 Gosto de criar projetos práticos e aprender com desafios reais.  
-- 🎯 Objetivo: **me tornar Full Stack Developer**.
+
+- 👨‍💻 Desenvolvedor **Full Stack Júnior**  
+- 🎓 Formado em **Full Stack** e atualmente cursando **Engenharia de Software**  
+- 💡 Gosto de criar projetos práticos e aprender resolvendo problemas reais  
+- 🛠 Trabalho com **React no Front-end** e **Node.js no Back-end**  
+- 🎯 Objetivo: Atuar como **Desenvolvedor Full Stack Júnior** e evoluir profissionalmente na área
+
+## 📚 Atualmente estudando
+
+- Aprofundamento em React
+- Boas práticas de código (Clean Code)
+- Arquitetura de APIs REST
+- Estruturação e organização de projetos Full Stack
 
 ---
 
