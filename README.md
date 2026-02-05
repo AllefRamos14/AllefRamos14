@@ -26,6 +26,16 @@
 - Estruturação e organização de projetos Full Stack
 
 ---
+## ✅ O que eu sei fazer
+
+- Criar interfaces modernas com React
+- Consumir e criar APIs REST com Node.js e Express
+- Trabalhar com banco de dados PostgreSQL e MongoDB
+- Usar Prisma como ORM
+- Containerizar aplicações com Docker
+- Versionar código com Git e GitHub
+
+---
 
 ## 🛠 **Tecnologias e Ferramentas**
 
