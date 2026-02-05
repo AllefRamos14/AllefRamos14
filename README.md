@@ -70,12 +70,11 @@
 
 
 ## 📌 **Projetos em Destaque**
-- [**DevBurger - Front-End**](https://github.com/AllefRamos14/DevBurger-Interface) – Interface de pedidos moderna.  
-- [**DevBurger - Back-End**](https://github.com/AllefRamos14/DevBurger.Api-Back-End) – API com autenticação e CRUD.  
-- [**Calculadora**](https://github.com/AllefRamos14/calculadora) – Calculadora funcional em HTML/CSS/JS.
+- [**DevBills - Front-End**](https://github.com/AllefRamos14/DevBills-Front-End) – Controle de Finanças Pessoais.
+- [**DevMovies**](https://github.com/AllefRamos14/DevMovies) – DevMovies é uma aplicação web inspirada em plataformas de streaming.  
+- [**Tela de Login**](https://github.com/AllefRamos14/calculadora) – Projeto de uma interface moderna e responsiva de Login e Cadastro.
 
 ---
-
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/AllefRamos14/DevBurger-Interface)
 ![GitHub repo size](https://img.shields.io/github/repo-size/AllefRamos14/DevBurger-Interface)
