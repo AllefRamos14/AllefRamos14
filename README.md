@@ -70,7 +70,7 @@
 
 
 ## 📌 **Projetos em Destaque**
-- [**💼 Portfólio — Allef Ramos**](https://github.com/AllefRamos14/Portfolio-Dev-Alef-Ramos.git) – Desenvolvedor Full Stack especializado em aplicações modernas, performáticas e escaláveis.
+- [**💼 Portfólio — Allef Ramos**](https://github.com/AllefRamos14/Portfolio-Dev-Alef-Ramos.git) – Portfólio desenvolvido para apresentar minha trajetória, projetos e habilidades como desenvolvedor Full Stack.
 - [**DevBills 📊**](https://github.com/AllefRamos14/DevBills-Front-End) – Controle de Finanças Pessoais.
 - [**DevMovies 🎬**](https://github.com/AllefRamos14/DevMovies) – DevMovies é uma aplicação web inspirada em plataformas de streaming.  
 
