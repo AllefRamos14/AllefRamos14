@@ -77,8 +77,6 @@
 
 ---
 
-![Alef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllefRamos14&show_icons=true&theme=tokyonight)
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/AllefRamos14/DevBurger-Interface)
 ![GitHub repo size](https://img.shields.io/github/repo-size/AllefRamos14/DevBurger-Interface)
 
