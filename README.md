@@ -56,15 +56,15 @@
 
 ## 📌 Projetos em Destaque
 
-### 🍔 [DevBurger](https://github.com/AllefRamos14/DevBurger-Interface)
-Aplicação full stack de gerenciamento de pedidos para hamburgueria. Interface construída em **React + TypeScript** com painel administrativo. API REST em **Node.js + Express + Sequelize**, autenticação JWT e upload de imagens.
-> `React` `TypeScript` `Node.js` `PostgreSQL` `Docker`
-
----
-
 ### 📊 [DevBills](https://github.com/AllefRamos14/DevBills-Front-End)
 Aplicação de controle de finanças pessoais com dashboard de receitas e despesas. Front-end em **React** consumindo API REST com visualização de dados por categorias.
 > `React` `TypeScript` `Node.js` `MongoDB`
+
+---
+
+### 🍔 [DevBurger](https://github.com/AllefRamos14/DevBurger-Interface)
+Aplicação full stack de gerenciamento de pedidos para hamburgueria. Interface construída em **React + TypeScript** com painel administrativo. API REST em **Node.js + Express + Sequelize**, autenticação JWT e upload de imagens.
+> `React` `TypeScript` `Node.js` `PostgreSQL` `Docker`
 
 ---
 
