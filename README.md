@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Alef Ramos! 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack Júnior | Cursando Engenharia de Software 🚀
+  Full Stack Engineer | Cursando Engenharia de Software 🚀
 </p>
 
 <p align="center">
