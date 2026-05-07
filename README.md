@@ -1,43 +1,27 @@
 <h1 align="center">Olá, eu sou o Alef Ramos! 👋</h1>
 
 <p align="center">
-  Full Stack Engineer | Cursando Engenharia de Software 🚀
+  Desenvolvedor Full Stack Júnior · React · Node.js · TypeScript
 </p>
 
 <p align="center">
-  🇧🇷 PT-BR | 🇺🇸 EN (em breve)
+  Construindo projetos reais enquanto curso Engenharia de Software 🚀
 </p>
 
 ---
 
-## 🚀 **Sobre mim**
+## 🧑‍💻 Sobre mim
 
-- 👨‍💻 Desenvolvedor **Full Stack Júnior**  
-- 🎓 Formado em **Full Stack** e atualmente cursando **Engenharia de Software**  
-- 💡 Gosto de criar projetos práticos e aprender resolvendo problemas reais  
-- 🛠 Trabalho com **React no Front-end** e **Node.js no Back-end**  
-- 🎯 Objetivo: Atuar como **Desenvolvedor Full Stack Júnior** e evoluir profissionalmente na área
-
-## 📚 Atualmente estudando
-
-- Aprofundamento em React
-- Boas práticas de código (Clean Code)
-- Arquitetura de APIs REST
-- Estruturação e organização de projetos Full Stack
-
----
-## ✅ O que eu sei fazer
-
-- Criar interfaces modernas com React
-- Consumir e criar APIs REST com Node.js e Express
-- Trabalhar com banco de dados PostgreSQL e MongoDB
-- Usar Prisma como ORM
-- Containerizar aplicações com Docker
-- Versionar código com Git e GitHub
+- 💼 Full Stack Jr. com foco em **React** no front e **Node.js** no back
+- 🎓 Cursando **Engenharia de Software**
+- 🛠 Apaixonado por resolver problemas reais com código limpo e bem estruturado
+- 📦 Trabalho com **APIs REST**, **PostgreSQL**, **Prisma** e **Docker**
+- 🌱 Atualmente aprofundando em **Clean Code**, **arquitetura de software** e **boas práticas de API**
+- 🎯 Buscando minha primeira oportunidade profissional como desenvolvedor
 
 ---
 
-## 🛠 **Tecnologias e Ferramentas**
+## 🛠 Tecnologias e Ferramentas
 
 ### 💻 Front-end
 <p>
@@ -68,22 +52,35 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+---
 
-## 📌 **Projetos em Destaque**
-- [**💼 Portfólio — Allef Ramos**](https://github.com/AllefRamos14/Portfolio-Dev-Alef-Ramos.git) – Portfólio desenvolvido para apresentar minha trajetória, projetos e habilidades como desenvolvedor Full Stack.
-- [**DevBills 📊**](https://github.com/AllefRamos14/DevBills-Front-End) – Controle de Finanças Pessoais.
-- [**DevMovies 🎬**](https://github.com/AllefRamos14/DevMovies) – DevMovies é uma aplicação web inspirada em plataformas de streaming.  
+## 📌 Projetos em Destaque
 
+### 🍔 [DevBurger](https://github.com/AllefRamos14/DevBurger-Interface)
+Aplicação full stack de gerenciamento de pedidos para hamburgueria. Interface construída em **React + TypeScript** com painel administrativo. API REST em **Node.js + Express + Sequelize**, autenticação JWT e upload de imagens.
+> `React` `TypeScript` `Node.js` `PostgreSQL` `Docker`
 
 ---
 
-![GitHub last commit](https://img.shields.io/github/last-commit/AllefRamos14/DevBurger-Interface)
-![GitHub repo size](https://img.shields.io/github/repo-size/AllefRamos14/DevBurger-Interface)
-
+### 📊 [DevBills](https://github.com/AllefRamos14/DevBills-Front-End)
+Aplicação de controle de finanças pessoais com dashboard de receitas e despesas. Front-end em **React** consumindo API REST com visualização de dados por categorias.
+> `React` `TypeScript` `Node.js` `MongoDB`
 
 ---
 
-## 📫 **Contato**
+### 🎬 [DevMovies](https://github.com/AllefRamos14/DevMovies)
+Plataforma web de catálogo de filmes inspirada em serviços de streaming. Consume a API do TMDB com listagem, busca e detalhes de filmes.
+> `React` `JavaScript` `API REST`
+
+---
+
+### 💼 [Portfólio Pessoal](https://github.com/AllefRamos14/Portfolio-Dev-Alef-Ramos)
+Portfólio desenvolvido para apresentar projetos, habilidades e trajetória profissional.
+> `React` `TypeScript`
+
+---
+
+## 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/allef-ramos" target="_blank">
