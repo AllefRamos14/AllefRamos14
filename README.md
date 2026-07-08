@@ -213,24 +213,6 @@ Meu portfólio profissional com meus principais projetos.
 
 ---
 
-# 📈 Estatísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AllefRamos14&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllefRamos14&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AllefRamos14&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📚 Atualmente estudando
 
 - Clean Architecture
