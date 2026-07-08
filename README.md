@@ -119,11 +119,10 @@ Portfólio desenvolvido para apresentar projetos, habilidades e trajetória prof
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllefRamos14&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=AllefRamos14&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="./profile/github-metrics.svg" alt="GitHub Stats" />
 </p>
 
-> ⚠️ Essas instâncias públicas (Vercel/demolab) são compartilhadas por milhares de perfis e volta e meia caem por limite de uso. Se sumirem de novo, o mais confiável é gerar o SVG via GitHub Actions direto no seu repositório de perfil — veja como <a href="https://github.com/DenverCoder1/github-readme-streak-stats#deploying-it-on-your-own" target="_blank">aqui</a>.
+> Gerado automaticamente todo dia via GitHub Actions (self-hosted), sem depender de servidor público de terceiros. Veja o setup no final deste arquivo.
 
 ---
 
