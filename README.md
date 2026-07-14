@@ -1,15 +1,16 @@
-<h1 align="center">Olá, eu sou o Alef Ramos! 👋</h1>
+```markdown
+<h1 align="center">Olá, eu sou o Alef Ramos 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack</strong> • React • Node.js • TypeScript
+  <strong>Full Stack Developer</strong> • React • Node.js • TypeScript
 </p>
 
 <p align="center">
-  Desenvolvendo aplicações modernas, escaláveis e focadas em boas práticas de desenvolvimento.
+  Construindo aplicações web modernas, escaláveis e focadas em performance, experiência do usuário e boas práticas de desenvolvimento.
 </p>
 
 <p align="center">
-  🎓 Engenharia de Software • 💻 Full Stack • 🚀 Em busca de novos desafios
+  🎓 Engenharia de Software • 💻 Full Stack • 🚀 Open to Work
 </p>
 
 <p align="center">
@@ -28,19 +29,37 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AllefRamos14&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllefRamos14&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AllefRamos14&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AllefRamos14&style=for-the-badge"/>
+</p>
+
+---
+
 # 👨‍💻 Sobre mim
 
-Sou desenvolvedor Full Stack com experiência prática no desenvolvimento de aplicações web completas, utilizando React, Node.js e TypeScript.
+Sou Desenvolvedor Full Stack com experiência prática no desenvolvimento de aplicações web modernas utilizando React, Node.js e TypeScript.
 
-Tenho foco em criar interfaces modernas, APIs REST bem estruturadas e aplicações escaláveis, sempre aplicando boas práticas como Clean Code, arquitetura de software e versionamento com Git.
+Tenho experiência na construção de interfaces responsivas, APIs REST, autenticação, integração com bancos de dados e deploy em nuvem. Busco sempre escrever código limpo, escalável e de fácil manutenção.
 
 Atualmente curso Engenharia de Software e continuo aprimorando minhas habilidades através de projetos reais e estudos contínuos.
 
 - 🚀 Desenvolvedor Full Stack
 - 🎓 Engenharia de Software (Conclusão prevista: Dez/2027)
 - 💼 Experiência prática em projetos Full Stack
-- 📦 APIs REST, PostgreSQL, MongoDB, Prisma e Docker
-- 🌱 Estudando Clean Architecture, CI/CD e Testes
+- 📦 APIs REST, PostgreSQL, MongoDB, Prisma e Firebase
+- 🐳 Docker • Git • GitHub
+- 🌱 Estudando Clean Architecture, Testes Automatizados, CI/CD e Microsserviços
 - 🎯 Aberto a oportunidades como Desenvolvedor Full Stack
 
 ---
@@ -115,44 +134,28 @@ Atualmente curso Engenharia de Software e continuo aprimorando minhas habilidade
 
 ---
 
-# 📊 Destaques
+# ⚙️ O que gosto de desenvolver
 
-- 🚀 +15 projetos publicados
 - 💻 Aplicações Full Stack
+- 🎨 Interfaces modernas e responsivas
+- 🤖 Integração com Inteligência Artificial
 - 📦 APIs REST
 - 🔐 Autenticação JWT
-- 🐳 Docker
-- ☁ Deploy com Vercel e Render
+- 📊 Dashboards
+- 🗄️ Banco de Dados
+- ☁️ Deploy em Nuvem
 
 ---
 
 # ⭐ Projetos em Destaque
 
-## 🎟️ TicketFlow
-
-Sistema completo para gerenciamento de eventos e venda de ingressos, com autenticação, dashboard administrativo, QR Code para check-in e gráficos em tempo real.
-
-**Stack**
-
-`React` • `TypeScript` • `Styled Components` • `Node.js` • `PostgreSQL`
-
-🔗 **Repositório:** *(adicione o link)*
-
-🌐 **Demo:** *(adicione o link)*
-
----
-
 ## 🤖 DevCore AI
 
-Chat inteligente integrado à OpenRouter, com autenticação Firebase, upload de imagens, histórico de conversas, exportação e tema claro/escuro.
+Chat inteligente integrado à OpenRouter com autenticação Firebase, upload de imagens, histórico de conversas, exportação, streaming de respostas e tema claro/escuro.
 
 **Stack**
 
-`React`
-`Node.js`
-`Express`
-`Firebase`
-`OpenRouter`
+`React` • `TypeScript` • `Node.js` • `Express` • `Firebase` • `OpenRouter`
 
 🔗 **Repositório:** *(adicione o link)*
 
@@ -166,10 +169,7 @@ Sistema para gerenciamento financeiro com dashboard, controle de receitas e desp
 
 **Stack**
 
-`React`
-`TypeScript`
-`Node.js`
-`MongoDB`
+`React` • `TypeScript` • `Node.js` • `MongoDB`
 
 🔗 https://github.com/AllefRamos14/DevBills-Front-End
 
@@ -181,35 +181,30 @@ Sistema Full Stack para gerenciamento de pedidos, painel administrativo, upload 
 
 **Stack**
 
-`React`
-`TypeScript`
-`Node.js`
-`Express`
-`PostgreSQL`
+`React` • `TypeScript` • `Node.js` • `Express` • `PostgreSQL`
 
 🔗 https://github.com/AllefRamos14/DevBurger-Interface
 
 ---
 
-## 🎬 DevMovies
+## 💼 Portfólio
 
-Catálogo de filmes consumindo a API do TMDB com pesquisa, detalhes e navegação.
+Meu portfólio profissional apresentando meus principais projetos, tecnologias e experiências.
 
-**Stack**
-
-`React`
-`JavaScript`
-`TMDB API`
-
-🔗 https://github.com/AllefRamos14/DevMovies
+🌐 https://portfolio-dev-alef-ramos.vercel.app
 
 ---
 
-## 💼 Portfólio
+# 🛠️ Boas práticas
 
-Meu portfólio profissional com meus principais projetos.
-
-🌐 https://portfolio-dev-alef-ramos.vercel.app
+- ✔ Clean Code
+- ✔ Componentização
+- ✔ Responsividade
+- ✔ Arquitetura em Camadas
+- ✔ REST APIs
+- ✔ Git Flow
+- ✔ Versionamento com Git
+- ✔ UI/UX
 
 ---
 
@@ -244,3 +239,8 @@ Se gostou dos meus projetos ou deseja conversar sobre tecnologia, fique à vonta
 </a>
 
 </p>
+
+<p align="center">
+⭐ Se algum projeto foi útil para você, considere deixar uma estrela nos repositórios.
+</p>
+```
