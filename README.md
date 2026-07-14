@@ -125,9 +125,9 @@ Chat inteligente desenvolvido com IA, integrado à OpenRouter, com autenticaçã
 
 `React` • `TypeScript` • `Node.js` • `Express` • `Firebase` • `OpenRouter`
 
-🔗 Repositório: *(adicione o link)*
+🔗 Repositório: *(ai-chatbot-five-beige.vercel.app)*
 
-🌐 Demo: *(adicione o link)*
+🌐 Demo: *(https://github.com/AllefRamos14/AI-Chatbot.git)*
 
 ---
 
