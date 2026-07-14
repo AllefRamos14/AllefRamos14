@@ -1,94 +1,75 @@
-
 <h1 align="center">Olá, eu sou o Alef Ramos 👋</h1>
 
+<h3 align="center">
+Full Stack Developer • React • Node.js • TypeScript
+</h3>
+
 <p align="center">
-  <strong>Full Stack Developer</strong> • React • Node.js • TypeScript
+Construindo aplicações web modernas, escaláveis e focadas em performance, boas práticas e experiência do usuário.
 </p>
 
 <p align="center">
-  Construindo aplicações web modernas, escaláveis e focadas em performance, experiência do usuário e boas práticas de desenvolvimento.
+🎓 Engenharia de Software • 💻 Full Stack • 🚀 Open to Work
 </p>
 
 <p align="center">
-  🎓 Engenharia de Software • 💻 Full Stack • 🚀 Open to Work
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/allef-ramos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/allef-ramos">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:SEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://portfolio-dev-alef-ramos.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
-  <a href="https://portfolio-dev-alef-ramos.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
+  <a href="https://github.com/AllefRamos14">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AllefRamos14&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllefRamos14&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AllefRamos14&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AllefRamos14&style=for-the-badge"/>
 </p>
 
 ---
 
 # 👨‍💻 Sobre mim
 
-Sou Desenvolvedor Full Stack com experiência prática no desenvolvimento de aplicações web modernas utilizando React, Node.js e TypeScript.
+Sou Desenvolvedor Full Stack apaixonado por criar aplicações web modernas utilizando **React, Node.js e TypeScript**.
 
-Tenho experiência na construção de interfaces responsivas, APIs REST, autenticação, integração com bancos de dados e deploy em nuvem. Busco sempre escrever código limpo, escalável e de fácil manutenção.
+Tenho experiência prática no desenvolvimento de interfaces responsivas, APIs REST, autenticação, integração com bancos de dados e deploy em nuvem.
 
-Atualmente curso Engenharia de Software e continuo aprimorando minhas habilidades através de projetos reais e estudos contínuos.
+Atualmente curso **Engenharia de Software** e continuo aprimorando meus conhecimentos em arquitetura de software, testes automatizados, Docker e CI/CD.
 
 - 🚀 Desenvolvedor Full Stack
-- 🎓 Engenharia de Software (Conclusão prevista: Dez/2027)
-- 💼 Experiência prática em projetos Full Stack
-- 📦 APIs REST, PostgreSQL, MongoDB, Prisma e Firebase
-- 🐳 Docker • Git • GitHub
-- 🌱 Estudando Clean Architecture, Testes Automatizados, CI/CD e Microsserviços
-- 🎯 Aberto a oportunidades como Desenvolvedor Full Stack
+- 🎓 Engenharia de Software (Conclusão prevista: Dezembro/2027)
+- 💻 Experiência prática em projetos Full Stack
+- 📦 APIs REST
+- 🗄️ PostgreSQL • MongoDB • Prisma
+- ☁️ Deploy com Vercel e Render
+- 🌱 Estudando Clean Architecture, Docker, CI/CD e Microsserviços
+- 🎯 Em busca de oportunidades como Desenvolvedor Full Stack
 
 ---
 
-# 🚀 Tecnologias
+# 🚀 Stack
 
-### Front-end
+## Front-end
 
 <p>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </p>
 
-### Back-end
+## Back-end
 
 <p>
 
@@ -102,9 +83,11 @@ Atualmente curso Engenharia de Software e continuo aprimorando minhas habilidade
 
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
 </p>
 
-### Banco de Dados
+## Banco de Dados
 
 <p>
 
@@ -112,11 +95,9 @@ Atualmente curso Engenharia de Software e continuo aprimorando minhas habilidade
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
 </p>
 
-### Ferramentas
+## Ferramentas
 
 <p>
 
@@ -126,7 +107,7 @@ Atualmente curso Engenharia de Software e continuo aprimorando minhas habilidade
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/OpenRouter-6C47FF?style=for-the-badge"/>
 
@@ -134,40 +115,27 @@ Atualmente curso Engenharia de Software e continuo aprimorando minhas habilidade
 
 ---
 
-# ⚙️ O que gosto de desenvolver
-
-- 💻 Aplicações Full Stack
-- 🎨 Interfaces modernas e responsivas
-- 🤖 Integração com Inteligência Artificial
-- 📦 APIs REST
-- 🔐 Autenticação JWT
-- 📊 Dashboards
-- 🗄️ Banco de Dados
-- ☁️ Deploy em Nuvem
-
----
-
 # ⭐ Projetos em Destaque
 
 ## 🤖 DevCore AI
 
-Chat inteligente integrado à OpenRouter com autenticação Firebase, upload de imagens, histórico de conversas, exportação, streaming de respostas e tema claro/escuro.
+Chat inteligente desenvolvido com IA, integrado à OpenRouter, com autenticação Firebase, upload de imagens, histórico de conversas, exportação de chats, streaming de respostas e tema claro/escuro.
 
-**Stack**
+**Tecnologias**
 
 `React` • `TypeScript` • `Node.js` • `Express` • `Firebase` • `OpenRouter`
 
-🔗 **Repositório:** *(adicione o link)*
+🔗 Repositório: *(adicione o link)*
 
-🌐 **Demo:** *(adicione o link)*
+🌐 Demo: *(adicione o link)*
 
 ---
 
 ## 📊 DevBills
 
-Sistema para gerenciamento financeiro com dashboard, controle de receitas e despesas e visualização de dados.
+Sistema Full Stack para gerenciamento financeiro com dashboard, controle de receitas e despesas.
 
-**Stack**
+**Tecnologias**
 
 `React` • `TypeScript` • `Node.js` • `MongoDB`
 
@@ -177,9 +145,9 @@ Sistema para gerenciamento financeiro com dashboard, controle de receitas e desp
 
 ## 🍔 DevBurger
 
-Sistema Full Stack para gerenciamento de pedidos, painel administrativo, upload de imagens e autenticação JWT.
+Sistema Full Stack para gerenciamento de pedidos online com painel administrativo, upload de imagens e autenticação JWT.
 
-**Stack**
+**Tecnologias**
 
 `React` • `TypeScript` • `Node.js` • `Express` • `PostgreSQL`
 
@@ -189,40 +157,37 @@ Sistema Full Stack para gerenciamento de pedidos, painel administrativo, upload 
 
 ## 💼 Portfólio
 
-Meu portfólio profissional apresentando meus principais projetos, tecnologias e experiências.
+Meu portfólio profissional desenvolvido para apresentar meus principais projetos, tecnologias e experiência.
 
 🌐 https://portfolio-dev-alef-ramos.vercel.app
 
 ---
 
-# 🛠️ Boas práticas
+# 📈 GitHub
 
-- ✔ Clean Code
-- ✔ Componentização
-- ✔ Responsividade
-- ✔ Arquitetura em Camadas
-- ✔ REST APIs
-- ✔ Git Flow
-- ✔ Versionamento com Git
-- ✔ UI/UX
+- 🚀 +15 projetos publicados
+- 💻 Aplicações Full Stack
+- 📦 Desenvolvimento de APIs REST
+- 🔐 Autenticação JWT
+- ☁️ Deploy com Vercel e Render
+- 📚 Aprendizado contínuo
+- 🧩 Desenvolvimento focado em código limpo e arquitetura escalável
 
 ---
 
-# 📚 Atualmente estudando
+# 🌱 Atualmente estudando
 
 - Clean Architecture
-- Testes Automatizados
 - Docker
 - CI/CD
+- Testes Automatizados
 - Microsserviços
 
 ---
 
-# 📫 Vamos conversar?
+# 📫 Vamos nos conectar?
 
-Estou em busca de oportunidades como Desenvolvedor Full Stack.
-
-Se gostou dos meus projetos ou deseja conversar sobre tecnologia, fique à vontade para entrar em contato.
+Estou sempre aberto para conversar sobre tecnologia, desenvolvimento de software e novas oportunidades.
 
 <p align="center">
 
@@ -230,16 +195,16 @@ Se gostou dos meus projetos ou deseja conversar sobre tecnologia, fique à vonta
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://portfolio-dev-alef-ramos.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-dev-alef-ramos.vercel.app">
-<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/AllefRamos14">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
-⭐ Se algum projeto foi útil para você, considere deixar uma estrela nos repositórios.
+⭐ Se algum projeto foi útil para você, considere deixar uma estrela nos repositórios!
 </p>
