@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Olá, eu sou o Alef Ramos 👋</h1>
 
 <p align="center">
@@ -243,4 +243,3 @@ Se gostou dos meus projetos ou deseja conversar sobre tecnologia, fique à vonta
 <p align="center">
 ⭐ Se algum projeto foi útil para você, considere deixar uma estrela nos repositórios.
 </p>
-```
