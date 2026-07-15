@@ -125,9 +125,9 @@ Chat inteligente desenvolvido com IA, integrado à OpenRouter, com autenticaçã
 
 `React` • `TypeScript` • `Node.js` • `Express` • `Firebase` • `OpenRouter`
 
-🔗 Repositório: *(ai-chatbot-five-beige.vercel.app)*
+🔗 Repositório: https://github.com/AllefRamos14/AI-Chatbot.git
 
-🌐 Demo: *(https://github.com/AllefRamos14/AI-Chatbot.git)*
+🌐 Demo: https://ai-chatbot-five-beige.vercel.app/
 
 ---
 
@@ -139,27 +139,37 @@ Sistema Full Stack para gerenciamento financeiro com dashboard, controle de rece
 
 `React` • `TypeScript` • `Node.js` • `MongoDB`
 
-🔗 https://github.com/AllefRamos14/DevBills-Front-End
+🌐 Demo: https://dev-bills-front-end-nu.vercel.app/
+
+🔗 Repositório: https://github.com/AllefRamos14/DevBills-Front-End 
 
 ---
 
-## 🍔 DevBurger
+## ✂️ THE BLADE & COMB
 
-Sistema Full Stack para gerenciamento de pedidos online com painel administrativo, upload de imagens e autenticação JWT.
+Sistema Full Stack para Aplicação web moderna para gestão e agendamento de serviços de barbearia.
 
 **Tecnologias**
 
-`React` • `TypeScript` • `Node.js` • `Express` • `PostgreSQL`
+`React` • `javaScript` • `Node.js` • `Express` • `PostgreSQL`
 
-🔗 https://github.com/AllefRamos14/DevBurger-Interface
+🌐 Demo: https://barbearia-washington.vercel.app/
+
+🔗 https://github.com/AllefRamos14/Barbeiro-Front-End.git
 
 ---
 
-## 💼 Portfólio
+## 💪 Personal trainer
 
-Meu portfólio profissional desenvolvido para apresentar meus principais projetos, tecnologias e experiência.
+Site para apresentação de serviços de personal trainer, com foco em experiência mobile, design elegante e conversão via WhatsApp.
 
-🌐 https://portfolio-dev-alef-ramos.vercel.app
+**Tecnologias**
+
+`React` • `javaScript` • `Vite`
+
+🌐 https://personal-trainer-dany.vercel.app/
+
+🔗 https://github.com/AllefRamos14/Personal-Trainer-Dany-.git
 
 ---
 
